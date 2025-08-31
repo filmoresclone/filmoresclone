@@ -6,7 +6,7 @@
 
 Currently sharpening my backend engineering skills through ALX, building strong foundations before expanding into cloud DevOps and AI-driven architectures.
 
-[LinkedIn](https://www.linkedin.com/in/\[sibusiso-hlongwane]) • [Email](mailto:\[sibusisohlongwane20]) • Open to work 
+[LinkedIn](https://www.linkedin.com/in/\[sibusiso-hlongwane]) • [Email](mailto:\[sibusisohlongwane20@gmail.com]) • Open to work 
 
 ---
 
