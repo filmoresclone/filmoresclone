@@ -57,7 +57,7 @@ Building in public starting now. Every FreeCodeCamp certification project gets i
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sibusiso-hlongwane-7b6791376)
-- 🐦 [X / Twitter](https://x.com/sibuhlongwane)
+- 🐦 [X / Twitter](https://x.com/sc_hlongwane)
 - 📧 sibusisohlongwane20@gmail.com
 
 > "Build it simple. Make it observable. Ship it safely. Scale it smart."
